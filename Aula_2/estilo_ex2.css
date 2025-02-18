@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-size: 25pt ;
+}
+
+p{
+    text-align: justify;
+    font-size: 18pt;
+    color:orange
+}
+
+#Vermelho{
+    text-align: justify;
+    font-size: 18pt;
+    color:red
+}
+
+.Roxo{
+    text-align: justify;
+    font-size: 18pt;
+    color:purple
+}
+
+div p{
+    text-align: justify;
+    font-size: 18pt;
+    color:blue
+}
+
+p:hover{
+    color:plum
+}
+
+#Vermelho:hover{
+    color:plum;
+}
+
+div p:hover{
+    color:green
+}
