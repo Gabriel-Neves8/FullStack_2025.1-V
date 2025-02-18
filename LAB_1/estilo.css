@@ -1,0 +1,44 @@
+#sumario{
+    text-align: left;
+    font-size: 11pt;
+}
+
+h1{
+    text-align: center;
+    font-size: 25pt;
+}
+
+.seções_tabela{
+    font-weight: bold;
+}
+
+a:hover{
+    color:lightblue;
+}
+
+p{
+    text-align: justify;
+    font-size: 18pt;
+}
+
+image{
+    border: 2cm cadetblue;
+}
+
+h2{
+    text-align: left;
+    font-size: 22pt;
+}
+
+.lista_frases{
+    text-align: justify;
+    font-size: 18pt;
+}
+
+.video_direita{
+    align-content: right;
+}
+
+body{
+    background-color:darkgrey;
+}
