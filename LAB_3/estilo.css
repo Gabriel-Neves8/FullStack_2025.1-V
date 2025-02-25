@@ -1,0 +1,99 @@
+.solid{border: 3px solid blue;}
+.margin_0{margin-block-start: 0; margin-block-end: 0;}
+#apresentacao{background-color: bisque;
+padding-left: 700px;
+text-align: center;
+display: block;
+padding: 50px;
+padding-top: 80px;
+padding-bottom: 80px;
+color: darkgreen;
+font-size: 50px;
+}
+#imagem_c{
+position: absolute;
+top: 0;
+left: 0;
+width: 200px; 
+height: 200px;
+display: inline;
+padding: 15px;
+}
+#imagem_java{
+position: absolute;
+top: 0;
+right: 0;
+width: 200px; 
+height: 200px;
+display: inline;
+padding: 15px;
+}
+body{
+    background-color: lightgray;
+    ;
+}
+.menu{
+    text-align: justify;
+    background-color: lightskyblue;
+    font-size: 20px;
+    padding: 15px;
+    color: darkred;
+}
+.home{
+    padding-left: 500px;
+    display: inline;
+}
+.resto{
+    padding-left: 200px;
+    display: inline;
+}
+.topicos{
+    text-align: center;
+    font-size: 30px;
+}
+
+.texto{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    color: indigo;
+}
+.imagens_livros{
+    width: 350px;
+    height: 500px;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+#livro_a{
+    padding-left:300px;
+    padding-right: 50px;
+}
+#livro_b{
+    padding-left:50px;
+    padding-right: 50px;
+}
+#livro_c{
+    padding-left:50px;
+    padding-right: 50px;
+}
+.video{
+    width: 400px;
+    height: 400px;
+    padding-left: 500px;
+
+}
+.imagem{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 50px;
+}
+.tabela{
+    margin-left: 870px;
+    border: 5px dashed red;
+}
+.tabela_informacoes{
+    padding: 5px;
+    color: red;
+    font-style: oblique;
+}
