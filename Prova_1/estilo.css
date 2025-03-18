@@ -1,0 +1,108 @@
+.menu{
+    background-color:cornflowerblue;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 100px;
+}
+.margin_0{
+    margin: 0;
+}
+.menu div{
+    border-left: 1px solid white;
+    text-align: center;
+    margin: 0;
+    padding: 13px;
+}
+
+.imagem{
+    display: inline;
+    padding: 100px;
+    margin: 30px;
+}
+.imagem div{
+    position: relative;
+    display: inline;
+    text-align: start;
+    
+}
+.cinco{
+    display: inline;
+    position: relative;
+    top: 60px;
+    left: 70px;
+}
+.azul{
+    color: blue;
+    position: relative;
+    top: -20px;
+    font-size: 30px;
+    left: -30px;
+}
+.preto{
+    color: black;
+    top: -20px;
+    font-size: 30px;
+    left: -30px;
+}
+.amarelo{
+    color: yellow;
+    top: -50px;
+    font-size: 30px;
+    left: 200px;
+}
+.verde{
+    color: green;
+    top: -110px;
+    font-size: 30px;
+    left: 270px;
+}
+
+#prefe{
+    font-size:15px;
+    top: -145px ;
+    left: 190px;
+}
+
+.informacoes{
+    background-color: whitesmoke;
+    padding: 250px;
+}
+
+.rodape{
+    background-color: cornflowerblue;
+    color: white;
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
+.rodape div{
+    padding: 5px;
+}
+
+#imagem_1{
+    margin: 20px;
+    position: relative;
+    display: inline;
+    top: 60px;
+}
+
+#plocais{
+    background-color: yellow;
+    color: white;
+    display: inline;
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+
+.sim{
+    background-color: yellow;
+    color: white;
+    display: inline;
+    position: absolute;
+    left: 40px;
+    top: 400px;
+    padding: 20px;
+}
