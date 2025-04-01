@@ -12,9 +12,14 @@ function adv(){
             document.getElementById('resp').innerHTML = "Numero maior que o desejado";
             document.getElementById("resp").style.setProperty("background-color", "red");
         
-        }else{
-            document.getElementById('resp').innerHTML = "Numero desejado";
-            document.getElementById("resp").style.setProperty("background-color", "green");
+        }else
+            if(num = null){
+                document.getElementById('resp').innerHTML = "Numero maior que o desejado";
+                document.getElementById("resp").style.setProperty("background-color", "red");
+            }else
+                if(num = num_alvo){
+                    document.getElementById('resp').innerHTML = "Numero desejado";
+                    document.getElementById("resp").style.setProperty("background-color", "green");
         }
     
 
