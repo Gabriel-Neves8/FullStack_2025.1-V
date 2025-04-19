@@ -1,0 +1,22 @@
+.caixa_roxa{
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px gray solid;
+    padding: 10px;
+}
+
+.font-size-16{
+    font-size: 16px;
+}
+
+.margin_0{
+    margin: 0;
+}
