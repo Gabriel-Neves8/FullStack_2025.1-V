@@ -10,6 +10,7 @@ h1{
 
 .seções_tabela{
     font-weight: bold;
+    border: 2px black solid;
 }
 
 a:hover{
@@ -41,4 +42,20 @@ h2{
 
 body{
     background-color:darkgrey;
+}
+
+.borda{
+    border: 2px black solid;
+}
+
+.central{
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+}
+.inline{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
