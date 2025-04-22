@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+
+div{
+    background-color: rebeccapurple;
+    padding: 10px;
+    margin: 10px;
+    display: inline;
+}
