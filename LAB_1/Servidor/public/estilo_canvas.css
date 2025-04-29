@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+}
+
+#canvas_1{
+    background-color: white;
+    border: 2px black solid;
+}
+
+#canvas_2{
+    background-color: aquamarine;
+}
+
+#desenhos{
+    display: flex;
+    justify-content: center;
+}
